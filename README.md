@@ -9,7 +9,7 @@
 <li><a href="#to">To do</li>
 <li><a href="#tech">Technologies Used</li>
 <li><a href="#team">Team</li>
-<li>License</li>
+<li><a href="li">License</li>
 <li>Credits</li>
 <h id="#overview"><b>OVERVIEW</h></b>
 <p id="overview">EDA is the frist step into Data science so this is an EDA analysis on food deleviery dataset,
@@ -59,5 +59,6 @@ profit to the organization which is a great step into data science
 </p>
 <h id="#team"><b>Team</h>
 <p id="team"></p>
-
+<h id="#li"><b>License</h>
+       <p id="li"></p>
 
