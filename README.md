@@ -4,13 +4,12 @@
 <li><a href="#moti">Motivation</li>
 <li><a href="#tech">Technical aspects</li>
 <li><a href="#inst">Installation</li>
-<li>Deployment</li>
 <li><a href="#dir"> Directory tree </h>
 <li><a href="#to">To do</li>
 <li><a href="#tech">Technologies Used</li>
 <li><a href="#team">Team</li>
-<li><a href="li">License</li>
-<li>Credits</li>
+<li><a href="#li">License</li>
+<li><a href="#cred">Credits</li>
 <h id="#overview"><b>OVERVIEW</h></b>
 <p id="overview">EDA is the frist step into Data science so this is an EDA analysis on food deleviery dataset,
 Exploratory Data Analysis (EDA) involves using statistics and visualizations to analyze and identify trends in data sets. The primary intent of EDA is to determine whether a predictive model is a feasible analytical tool for business challenges or not.</p>
@@ -58,7 +57,8 @@ profit to the organization which is a great step into data science
 <img src=https://user-images.githubusercontent.com/109030811/211581688-e073394c-9b90-456a-8874-77d768bbaa6c.png>
 </p>
 <h id="#team"><b>Team</h>
-<p id="team"></p>
-<h id="#li"><b>License</h>
-       <p id="li">uisfhs8fwlkffj8r</p>
-
+       <p id="team"></p>
+       <h id="#li"><b>License</b></h>
+       <p id="li"></p>
+       <h id="#cred"><b>Credits</h>
+              <p id="cred"></p>
