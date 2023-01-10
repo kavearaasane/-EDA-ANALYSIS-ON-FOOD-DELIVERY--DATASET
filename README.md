@@ -48,7 +48,7 @@ profit to the organization which is a great step into data science
 <p id="to"> 1.To add better vizualization chart to display the comparison.
 <br>2.To make more comparison between data which can help to gain more revenue.
 </p>
-<h id="#tech">Technologies Used</h>
+<h id="#tech"><b>Technologies Used</b></h>
 <p id="tech">
 <img src=https://user-images.githubusercontent.com/109030811/211580911-db9ff5ae-b7a5-4f3e-88b9-7eda2d7e4b43.png>
 <br>
