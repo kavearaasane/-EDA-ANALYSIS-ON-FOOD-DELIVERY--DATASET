@@ -60,5 +60,5 @@ profit to the organization which is a great step into data science
        <p id="team"></p>
        <h id="#li"><b>License</b></h>
        <p id="li"></p>
-       <h id="#cred"><b>Credits</h>
+       <h id="#cred"><b>Credits</b></h>
               <p id="cred">Kaggle-This project wouldn't have been possible without this site. It saved my enormous amount of time while collecting the data.</p>
