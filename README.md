@@ -61,4 +61,4 @@ profit to the organization which is a great step into data science
        </p>
 
        <h id="#cred"><b>Credits</b></h></b>
-              <p id="cred">verzeo-This project wouldn't have been possible without this site. It saved my enormous amount of time while collecting the data.</p>
+       <p id="cred">verzeo-This project wouldn't have been possible without this site. It saved my enormous amount of time while collecting the data.</p>
