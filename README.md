@@ -58,4 +58,4 @@ profit to the organization which is a great step into data science
 <h id="#credit"><b>Credits</b>
 </h>
 <p id="credit">
-       <b>verzeo</b>-This project wouldn't have been possible without this site. It saved my enormous amount of time while collecting the data.</p>
+       <b>Kaggle</b>-This project wouldn't have been possible without this site. It saved my enormous amount of time while collecting the data.</p>
