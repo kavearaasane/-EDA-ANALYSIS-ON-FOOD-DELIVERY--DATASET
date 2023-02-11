@@ -8,7 +8,6 @@
 <li><a href="#to">To do</li>
 <li><a href="#tech">Technologies Used</li>
 <li><a href="#team">Team</li>
-<li><a href="#li">License</li>
 <li><a href="#cred">Credits</li>
 <h id="#overview"><b>OVERVIEW</h></b>
 <p id="overview">EDA is the frist step into Data science so this is an EDA analysis on food deleviery dataset,
@@ -58,7 +57,6 @@ profit to the organization which is a great step into data science
 </p>
 <h id="#team"><b>Team</h>
        <p id="team"></p>
-       <h id="#li"><b>License</b></h>
-       <p id="li"></p>
+
        <h id="#cred"><b>Credits</b></h></b>
-              <p id="cred">Kaggle-This project wouldn't have been possible without this site. It saved my enormous amount of time while collecting the data.</p>
+              <p id="cred">verzeo-This project wouldn't have been possible without this site. It saved my enormous amount of time while collecting the data.</p>
